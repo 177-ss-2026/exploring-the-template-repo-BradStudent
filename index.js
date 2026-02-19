@@ -5,7 +5,7 @@ const age = 26; // Your actual age
 const isStudent = true;
 
 // Using template literals
-const introduction = `Hello! My name is $Bradley $Reddish. I am ${age} years old.`;
+const introduction = `Hello! My name is ${firstName} ${lastName}. I am ${age} years old.`;
 const studentStatus = `Am I a student? ${isStudent}`;
 
 // Print to console
